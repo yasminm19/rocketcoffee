@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio RocketBlog 💻	 </h1>
+<h1 align="center"> Desafio RocketCoffee :coffee: </h1>
 
 <p align="center">
 Desafio proposto pelo site da Rocketseat pra desenvolver uma homepage para uma marca de café.
